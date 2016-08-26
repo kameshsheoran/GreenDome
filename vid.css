@@ -1,0 +1,30 @@
+﻿body
+h1{
+     color:red;
+     font-size:300%;
+     text-align:center;
+     border:20px solid powderblue;
+     padding:20px;
+     margin:20px;
+}
+h2{
+    color:white;
+    font-size:200%;
+}
+h3{
+    color:red;
+}
+p {
+    color: white;
+}
+article {
+    background-color:green;
+}
+address{
+   text-align:center;
+   font-size:150%;
+   font-family:bold italic;
+}
+nav{
+   font-size:150%
+}
